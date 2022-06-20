@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Luckypoker
 - 👀 I’m interested in helping others
 - 🌱 I’m currently learning html, css, and java
-- 💞️ I’m looking to collaborate on nothing atm
+- 💞️ I’m looking to collaborate on web sites
 - 📫 How to reach me Discord: thai-lyr#9135
 
 <!---
